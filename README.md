@@ -40,8 +40,7 @@ This project analyzes Superstore retail sales data to evaluate sales performance
 <img width="1177" height="655" alt="image" src="https://github.com/user-attachments/assets/b26d843c-d0d0-420e-b254-5d9fc4f9924c" />
 
 ## Repository Structure
- 
-/python      → Exploratory analysis notebook  
 /dashboard   → Power BI dashboard file  
 /sql         → SQL analysis queries
+/python      → Exploratory analysis notebook  
 /data        → Cleaned dataset 
